@@ -118,3 +118,28 @@ h2 {
     font-size: 18px;
     text-align: center;
 }
+
+/* styling for third section */
+
+.third-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e5e7eb;
+    padding: 100px;
+}
+
+h3 {
+    font-size: 36px;
+    font-weight:lighter;
+    color: #1f2937;
+}
+
+.p-third {
+    font-size: 18px;
+    text-align: end;
+    align-self: flex-end;
+    
+}
+
+
